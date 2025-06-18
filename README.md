@@ -23,5 +23,13 @@ This project simulates a real-world identity and access management system using 
 - Understand access governance with RBAC and PIM
 - Align identity strategy with Zero Trust principles
 
-## 📁 Project Structure
+## 📁 Contents
+- [Overview](#overview)
+- [Org Structure](#org-structure)
+- [Users & Groups](#users--groups)
+- [RBAC](#role-based-access-control)
+- [Conditional Access](#conditional-access)
+- [Privileged Identity Management](#privileged-identity-management)
+- [Key Learnings](#key-learnings)
+
 
